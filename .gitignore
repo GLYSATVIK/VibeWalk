@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.env
+.venv
+qdrant_storage/
+qdrant_data/
+fast_embed_cache/
+
+# Node
+node_modules/
+.next/
+dist/
+out/
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
